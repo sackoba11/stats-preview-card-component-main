@@ -1,0 +1,28 @@
+body {
+    background: hsl(233, 47%, 7%);
+    color: hsl(0, 0%, 100%);
+}
+
+ul li {
+    list-style: none;
+}
+
+p {
+    color: hsla(0, 0%, 100%, 0.75);
+    font-size: 15px
+}
+
+.crd {
+    display: flexbox;
+    background: hsl(244, 38%, 16%);
+}
+
+.subcrd {
+    float: left;
+}
+
+span {
+    color: hsl(277, 64%, 61%);
+}
+
+img {}
